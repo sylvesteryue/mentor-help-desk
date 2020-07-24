@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    /* border-bottom: 3px solid #7953A9; */
+    background-color: aqua;
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    z-index: 10;
+    position: relative;
+}
